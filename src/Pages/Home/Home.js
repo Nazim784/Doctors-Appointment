@@ -4,6 +4,7 @@ import Info from './Info';
 import clock from '../../assets/icons/clock.svg'
 import Services from './Services';
 import Terms from './Terms';
+import MakeAppointment from './MakeAppointment';
 
 const Home = () => {
     return (
@@ -12,6 +13,7 @@ const Home = () => {
            <Info img={clock}></Info>
            <Services></Services>
            <Terms></Terms>
+           <MakeAppointment></MakeAppointment>
           
             
         </div>
