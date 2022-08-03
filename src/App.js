@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Navbar from './Pages/Shared/Navbar';
 import { Routes, Route, Link } from "react-router-dom";
@@ -11,6 +11,7 @@ function App() {
     <div>
       <Navbar></Navbar>
       <Routes>
+        <Route path="/" element={<Home />} />
         <Route path="/home" element={<Home />} />
         <Route path="about" element={<About />} />
         <Route path="login" element={<Login />} />
