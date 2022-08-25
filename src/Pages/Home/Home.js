@@ -7,7 +7,7 @@ import Terms from './Terms';
 import MakeAppointment from './MakeAppointment';
 import Testimonials from './Testimonials';
 import Form from './Form';
-import Footer from './Footer';
+import Footer from '../Shared/Footer';
 
 const Home = () => {
     return (
