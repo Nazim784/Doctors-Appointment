@@ -7,6 +7,7 @@ import About from './Pages/About/About';
 import Login from './Pages/Login/Login';
 import Appointment from './Pages/Appointment/Appointment';
 
+
 function App() {
   return (
     <div className='max-w-7xl mx-auto px-12'>
@@ -16,7 +17,8 @@ function App() {
         <Route path="/home" element={<Home />} />
         <Route path="about" element={<About />} />
         <Route path="login" element={<Login />} />
-        <Route path="appointment" element={<Appointment />} />
+        <Route path="appointment" element={<Appointment></Appointment>} />
+        
       </Routes>
     </div>
   );
