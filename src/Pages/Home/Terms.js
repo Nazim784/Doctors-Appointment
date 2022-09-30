@@ -4,7 +4,7 @@ import PrimaryButton from '../Shared/PrimaryButton';
 
 const Terms = () => {
     return (
-        <div className='content-center px-20'>
+        <div className='content-center mt-{-5} px-20'>
             <div className="hero min-h-screen">
                 <div className="hero-content flex-col lg:flex-row">
                     <img src={treatment} className="max-w-sm rounded-lg shadow-2xl" />

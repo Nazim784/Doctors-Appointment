@@ -2,56 +2,152 @@
     {
       "_id": 1,
       "name": "Teeth Orthodontics",
+      "img":"https://i.ibb.co/h2c5gFX/doctor2.png",
+      "description":"আমিনুল",
+      "title":"মেয়ে পটানো স্পেশালিস্ট",
+      "designation":"MBBS(CMC), FCPS(final year),Dental surgon",
       "slots": [
         "08.00 AM - 08.30 AM",
         "08.30 AM - 09.00 AM",
         "09.00 AM - 9.30 AM",
         "09.30 AM - 10.00 AM",
         "10.00 AM - 10.30 AM",
-        "10.30 AM - 11.00 AM"
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 AM",
+        "11.30 AM - 12.00 AM",
+        "1.00 PM - 1.30 PM",
+        "1.30 PM - 2.00 PM",
+        "2.00 PM - 2.30 PM",
+        "2.30 PM - 3.00 PM",
+        "3.00 PM - 3.30 PM",
+        "3.30 PM - 4.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM"
       ]
     },
     {
       "_id": 2,
       "name": "Cosmetic Dentistry",
+      "img":"https://i.ibb.co/9Wtc7bb/doctor3.png",
+      "description":"Dr. Md Nazim Uddin",
+      "designation":"MBBS(CMC), FCPS(final year),Dental surgon",
       "slots": [
+        "08.00 AM - 08.30 AM",
+        "08.30 AM - 09.00 AM",
         "09.00 AM - 9.30 AM",
         "09.30 AM - 10.00 AM",
         "10.00 AM - 10.30 AM",
-        "10.30 AM - 11.00 AM"
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 AM",
+        "11.30 AM - 12.00 AM",
+        "1.00 PM - 1.30 PM",
+        "1.30 PM - 2.00 PM",
+        "2.00 PM - 2.30 PM",
+        "2.30 PM - 3.00 PM",
+        "3.00 PM - 3.30 PM",
+        "3.30 PM - 4.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM"
       ]
     },
     {
       "_id": 3,
       "name": "Teeth Cleaning",
-      "slots": []
+      "img":"https://i.ibb.co/V3ssfcb/doctor4.png",
+      "description":"Dr. Sazzad hossen",
+      "designation":"MBBS(CMC), FCPS(final year),Dental surgon",
+      "slots": [
+        "08.00 AM - 08.30 AM",
+        "08.30 AM - 09.00 AM",
+        "09.00 AM - 9.30 AM",
+        "09.30 AM - 10.00 AM",
+        "10.00 AM - 10.30 AM",
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 AM",
+        "11.30 AM - 12.00 AM",
+        "1.00 PM - 1.30 PM",
+        "1.30 PM - 2.00 PM",
+        "2.00 PM - 2.30 PM",
+        "2.30 PM - 3.00 PM",
+        "3.00 PM - 3.30 PM",
+        "3.30 PM - 4.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM"
+      ]
     },
     {
       "_id": 4,
       "name": "Cavity Protection",
+      "img":"https://i.ibb.co/cgZHsqt/doctor5.png",
+      "description":"Dr. Faria chowdhury",
+      "designation":"MBBS(CMC), FCPS(final year),Dental surgon",
       "slots": [
+        "08.00 AM - 08.30 AM",
+        "08.30 AM - 09.00 AM",
+        "09.00 AM - 9.30 AM",
+        "09.30 AM - 10.00 AM",
         "10.00 AM - 10.30 AM",
-        "10.30 AM - 11.00 AM"
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 AM",
+        "11.30 AM - 12.00 AM",
+        "1.00 PM - 1.30 PM",
+        "1.30 PM - 2.00 PM",
+        "2.00 PM - 2.30 PM",
+        "2.30 PM - 3.00 PM",
+        "3.00 PM - 3.30 PM",
+        "3.30 PM - 4.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM"
       ]
     },
     {
       "_id": 5,
       "name": "Pediatric Dental",
+      "img": "https://i.ibb.co/XtXrJqF/doctor1.png",
+      "description":"Dr. Sourov Muhury",
+      "designation":"MBBS(CMC), FCPS(final year),Dental surgon",
       "slots": [
+        "08.00 AM - 08.30 AM",
         "08.30 AM - 09.00 AM",
         "09.00 AM - 9.30 AM",
         "09.30 AM - 10.00 AM",
         "10.00 AM - 10.30 AM",
-        "10.30 AM - 11.00 AM"
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 AM",
+        "11.30 AM - 12.00 AM",
+        "1.00 PM - 1.30 PM",
+        "1.30 PM - 2.00 PM",
+        "2.00 PM - 2.30 PM",
+        "2.30 PM - 3.00 PM",
+        "3.00 PM - 3.30 PM",
+        "3.30 PM - 4.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM"
       ]
     },
     {
       "_id": 6,
       "name": "Oral Surgery",
+      "img":"https://i.ibb.co/h2c5gFX/doctor2.png",
+      "description":"Dr. Joy Nondy",
+      "designation":"MBBS(CMC), FCPS(final year),Dental surgon",
       "slots": [
+        "08.00 AM - 08.30 AM",
+        "08.30 AM - 09.00 AM",
+        "09.00 AM - 9.30 AM",
         "09.30 AM - 10.00 AM",
         "10.00 AM - 10.30 AM",
-        "10.30 AM - 11.00 AM"
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 AM",
+        "11.30 AM - 12.00 AM",
+        "1.00 PM - 1.30 PM",
+        "1.30 PM - 2.00 PM",
+        "2.00 PM - 2.30 PM",
+        "2.30 PM - 3.00 PM",
+        "3.00 PM - 3.30 PM",
+        "3.30 PM - 4.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM"
       ]
     }
   ]
